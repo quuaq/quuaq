@@ -1,57 +1,74 @@
-# Hi 👋, I'm Samet Barış Öncül
+<h1 align="center">Hi 👋, I'm Samet Barış Öncül</h1>
+<h3 align="center">Full Stack Developer | .NET | Angular | PostgreSQL | C# | JavaScript</h3>
+<br>
 
-**Full Stack Developer | .NET | Angular | PostgreSQL | C# | JavaScript**
-
----
-
-🚀 **About Me:**
-- 🎓 Recent Computer Engineering Graduate (2025) from Lefke European University
-- 🛠️ Passionate about building scalable web applications and RESTful APIs
-- 💻 Main stack: .NET Core, Angular, Entity Framework, PostgreSQL
-- 🏆 Developed a full-stack car rental project as a graduation project
-- 🌍 Interested in working in Europe (Netherlands, Germany, etc.)
-
----
-
-## 🛠️ Skills
-
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-68217A?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 🚗 Featured Projects
+## 🚀 About Me
 
-- **Car Rental System**  
-  _Full-stack project with Angular and .NET Core, including JWT authentication, admin panel, reservation/payment system._  
-  [View Repository](https://github.com/kullanici_adi/proje_linki)
+- 🎓 **Computer Engineering Graduate (2025)** from Lefke European University  
+- 💡 Passionate about **building scalable web applications & RESTful APIs**
+- 🛠️ **Main Stack:** .NET Core, Angular, Entity Framework, PostgreSQL
+- 🚗 Built a full-stack **Car Rental Project** as graduation project
+- 🌍 Open to work in Europe (**Netherlands, Germany, etc.**)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl/) &nbsp;&middot;&nbsp; [Portfolio Website](#) (add if available)
 
-- **Personal Portfolio Website**  
-  _Modern responsive portfolio website built with Angular and SCSS._  
-  [View Repository](https://github.com/kullanici_adi/proje_linki)
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Entity%20Framework-68217A?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- [**Car Rental Full Stack App**](https://github.com/quuaq/CarRentalProject)  
+  <sub>Graduation project | Angular + .NET Core + PostgreSQL</sub>
+- [**Taşınmaz (Real Estate) Automation**](https://github.com/quuaq/Tasinmaz-FrontEnd)  
+  <sub>Windows Forms + PostgreSQL | Property management system</sub>
+- _Add more if you like..._
 
 ---
 
 ## 📈 GitHub Stats
 
-![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanici_adi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanici_adi&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quuaq&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=quuaq&theme=radical" width="400"/>
+</p>
 
 ---
 
-## 📬 Contact
+## 📫 How to reach me?
 
-- [LinkedIn](https://www.linkedin.com/in/sametbarisoncul)
-- Email: sametbarisoncul@gmail.com
+- Email: **samet.oncul@gmail.com**
+- LinkedIn: [linkedin.com/in/samet-barış-öncül](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl/)
+- (Eklemek istediğin sosyal medya/portföy varsa buraya yaz)
 
 ---
 
-<!-- Özelleştirilebilir alanlar: Dil rozetleri, Github streaks, özel animasyonlar, logo/banner, vs. -->
+> _"Always forward. Never backward."_ 🚀
+

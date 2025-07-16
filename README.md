@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samet Barış Öncül</h1>
 <h3 align="center">Computer Engineer | Full Stack Developer</h3>
+<p align="center">
+  <img width="1298" height="336" alt="image" src="https://github.com/user-attachments/assets/fc833e83-ee48-40d5-8ee2-cc0944924fe4" />
+</p>
 <br>
 
 <p align="center">

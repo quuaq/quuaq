@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Barış Öncül</h1>
-<h3 align="center">Full Stack Developer | .NET | Angular | PostgreSQL | C# | JavaScript</h3>
+<h3 align="center">Computer Engineer | Full Stack Developer</h3>
 <br>
 
 <p align="center">

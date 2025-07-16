@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Engineering Graduate (2025)** from Lefke European University  
+- 🎓 **Computer Engineering Graduate (2025)** from European University of Lefke
 - 💡 Passionate about **building scalable web applications & RESTful APIs**
 - 🌍 Open to work in Europe (**Netherlands, Germany, etc.**)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/) &nbsp;&middot;&nbsp; [Portfolio Website](https://sbarisoncul.netlify.app/) 

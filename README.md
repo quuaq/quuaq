@@ -22,7 +22,7 @@
 - 🛠️ **Main Stack:** .NET Core, Angular, Entity Framework, PostgreSQL
 - 🚗 Built a full-stack **Car Rental Project** as graduation project
 - 🌍 Open to work in Europe (**Netherlands, Germany, etc.**)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl/) &nbsp;&middot;&nbsp; [Portfolio Website](#) (add if available)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/) &nbsp;&middot;&nbsp; [Portfolio Website](https://sbarisoncul.netlify.app/) 
 
 ---
 

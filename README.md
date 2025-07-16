@@ -46,7 +46,7 @@
 
 ## 🌟 Featured Projects
 
-- [**Car Rental Full Stack App**](https://github.com/quuaq/CarRentalProject)  
+- [**Car Rental Full Stack App**](https://github.com/quuaq/CarRentalAPI)  
   <sub>Graduation project | Angular + .NET Core + PostgreSQL</sub>
 - [**Taşınmaz (Real Estate) Automation**](https://github.com/quuaq/Tasinmaz-FrontEnd)  
   <sub>Windows Forms + PostgreSQL | Property management system</sub>

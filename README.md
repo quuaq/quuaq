@@ -65,7 +65,7 @@
 ## 📫 How to reach me?
 
 - Email: **sbarisoncul35@gmail.com**
-- LinkedIn: [linkedin.com/in/samet-barış-öncül](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl/)
+- LinkedIn: [linkedin.com/in/samet-barış-öncül](https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/)
 
 ---
 
